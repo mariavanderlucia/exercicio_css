@@ -1,6 +1,6 @@
 # exercicio_css
 
-# Exercício 1: Alterando Cores 
+# Exercício 1: ![Alterando Cores](github.com/mariavanderlucia/exercicio_css/tree/main/EXERCICIO_CSS/exercicio1/index.html) 
 a) Crie um arquivo HTML simples com um parágrafo. 
 b) Use CSS para alterar a cor do texto desse parágrafo para vermelho.
 
